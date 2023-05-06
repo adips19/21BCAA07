@@ -1,0 +1,22 @@
+                                                                    GlusterFS
+
+Gluster is also known as GlusterFS (Gluster File System), is an open source distributed file system which can scale to 
+building block fashion to store multiple petabytes.
+
+PS. petabytes is a measuable of memory which is 2 to the 50th power of bytes.
+
+History : 
+
+Gluster was funded and headquarted in Sunnyvale, California and engineers in Bangalore, India. 
+It was funded by Ventures and index venture. Later on it was acquired by Red Hat Software in 2011.
+Red Hat software owned the GlusterFS commercially but development part depend on Open Source Developer. 
+
+
+Website - www.glusterFS.org
+Organization - Red Hat Software 
+License - Other (GPLv2 or GPLv3+)
+Open/Proprietory - Open Source 
+Open Source Path - www.github.com/gluster/glusterFS.git
+Brief Description - Gluster is an open source distributed file system which can scale to building block fashion to store
+                             multiple petabytes.
+
